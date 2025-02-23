@@ -7,3 +7,9 @@ Utilisation de create database, create table, int, unsigned, auto_increment, var
 
 ## Technologies 🛠️ :
 - MySQL
+
+## Auteurs 🙇 :
+- #### Arthur: [@GitHub](https://github.com/L0wBly)
+- #### Cyril: [@GitHub](https://github.com/Cyril-Mathe)
+- #### William : [@GitHub](https://github.com/Wyll-exe)
+- #### Liam : [@GitHub](https://github.com/lacisailles)
